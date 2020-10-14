@@ -1,7 +1,7 @@
 NAME=libdrm
-VERSION=2.4.97
-REVISION=1
+VERSION=2.4.102
+REVISION=2
 LICENSE=MIT
-SRC=https://dri.freedesktop.org/libdrm/libdrm-2.4.97.tar.bz2
-SRCMD5=acef22d0c62c89692348c2dd5591393e
+SRC=https://dri.freedesktop.org/libdrm/libdrm-2.4.102.tar.xz
+SRCMD5=586f1e0c324dd372841922089a04417c
 BUILDDEPS=meson ninja
